@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Porsche",
+        "price": 700000,
+        "year": 2020,
+        "contact":{
+            "dealer": "Josefin",
+            "number": "0763220667"
+        } 
+    },
+    {
+        "id":2,
+        "name": "Volvo",
+        "price": 900000,
+        "year": 2022,
+        "contact":{
+            "dealer": "Daddy",
+            "number": "0763220667"
+        } 
+    },
+    {
+        "id": 3,
+        "name": "Jaguar",
+        "price": 1000000,
+        "year": 2019,
+        "contact":{
+            "dealer": "Capse",
+            "number": "0763220667"
+        } 
+    },
+    {
+        "id": 4,
+        "name": "Kia",
+        "price": 200000,
+        "year": 2018,
+        "contact":{
+            "dealer": "Snobben",
+            "number": "0763220667"
+        } 
+    },
+    {
+        "id": 5,
+        "name": "SAAB",
+        "price": 150000,
+        "year": 2015,
+        "contact":{
+            "dealer": "Musse",
+            "number": "0763220667"
+        } 
+    },
+    {
+        "id": 6,
+        "name": "Audi",
+        "price": 700000,
+        "year": 2021,
+        "contact":{
+            "dealer": "Astborg",
+            "number": "0763220667"
+        } 
+    }
+]
